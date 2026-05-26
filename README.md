@@ -5,8 +5,6 @@
 > ❗ **Не предназначен для высоконадёжной защиты.**
 
 ## 📦 Установка
-
 ```bash
 git clone https://github.com/TheQarden/encrypt_tool.js.git
 cd encrypt_tool.js
-# Зависимости не требуются — используются только встроенные модули Node.js
