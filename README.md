@@ -6,5 +6,5 @@
 
 ## 📦 Установка
 ```bash
-git clone https://github.com/TheQarden/encrypt_tool.js.git
+git clone https://github.com/TheQarden/encrypt_tool.js
 node encrypt_tool.js
