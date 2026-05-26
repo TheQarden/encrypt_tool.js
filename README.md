@@ -1,2 +1,12 @@
 # encrypt_tool.js
-Lightweight tool for encrypting JavaScript files using AES‑256‑GCM and securely executing them via Node.js. Includes integrity verification. Suitable for obfuscation against casual eyes. Not intended for high‑security protection.
+
+> Лёгкий инструмент для шифрования JavaScript-файлов с помощью AES‑256‑GCM и безопасного выполнения через Node.js.  
+> Включает проверку целостности. Подходит для обфускации от случайных глаз.  
+> ❗ **Не предназначен для высоконадёжной защиты.**
+
+## 📦 Установка
+
+```bash
+git clone https://github.com/TheQarden/encrypt_tool.js.git
+cd encrypt_tool.js
+# Зависимости не требуются — используются только встроенные модули Node.js
